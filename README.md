@@ -5,7 +5,7 @@ Lulusan Teknik Informatika dengan beberapa pengalaman di kampus dan bootcamp. Sa
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/HendryanshaIrawanPalirante">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HendryanshaIrawanPalirante&layout=compact&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HendryanshaIrawanPalirante&layout=compact&layout=compact&theme=default"/>
 </a>
 </p>
 
