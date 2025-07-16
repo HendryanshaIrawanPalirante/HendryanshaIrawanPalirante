@@ -2,6 +2,8 @@ Perkenalkan nama saya **Hendryansha Irawan Palirante**.<br>
 
 Lulusan Teknik Informatika dengan beberapa pengalaman di kampus dan bootcamp. Saya memiliki 5 bulan pengalaman dalam mengembangkan aplikasi berbasis android dengan kotlin serta menerapkan konsep oop, arsitektur mvvm dengan menggunakan live data dan injection, dan juga implementasi api menggunakan retrofit. Saya memiliki pengalaman 5+ bulan menjadi asisten dosen pada mata kuliah pemrograman mobile.<br>
 
+Sertifikasi Pelatihan[Sertifikat]([https://www.linkedin.com/in/gilang-adhan/](https://drive.google.com/file/d/1x3MoDEQ7q4u5b20P1ue0omwHeoGHDAGD/view?usp=sharing))
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/HendryanshaIrawanPalirante">
